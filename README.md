@@ -49,7 +49,7 @@ This application was created using Lovable, based on a Product Requirements Docu
 
 ## Project documentation:
 
-PRD.md – Product Requirements Document used to design the application.
+[PRD.md](PRD.md) – Product Requirements Document used to design the application.
 
 ## Project Goal
 
